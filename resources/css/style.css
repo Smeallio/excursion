@@ -18,3 +18,7 @@ p.link {
 a:visited {
   color: Aquamarine;
 }
+
+video {
+  align-items: center;
+}
